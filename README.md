@@ -1,4 +1,4 @@
-![go](https://github.com/egonelbre/gophers/blob/master/vector/fairy-tale/king.svg)
+<img src="./go-king.svg" alt="drawing" width="100"/>
 
 - 👋 Hi, I’m @r6q
 - 👀 I’m interested in ...
